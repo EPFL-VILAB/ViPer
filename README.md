@@ -160,13 +160,10 @@ Licensed under the Apache License, Version 2.0. See [LICENSE](/LICENSE) for deta
 If you find this repository helpful, please consider citing our work:
 
 ```BibTeX
-@misc{salehi2024vipervisualpersonalizationgenerative,
-      title={ViPer: Visual Personalization of Generative Models via Individual Preference Learning}, 
-      author={Sogand Salehi and Mahdi Shafiei and Teresa Yeo and Roman Bachmann and Amir Zamir},
-      year={2024},
-      eprint={2407.17365},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.17365}, 
+@article{ViPer,
+  title={{ViPer}: Visual Personalization of Generative Models via Individual Preference Learning},
+  author={Sogand Salehi and Mahdi Shafiei and Teresa Yeo and Roman Bachmann and Amir Zamir},
+  journal={arXiv preprint arXiv:2407.17365},
+  year={2024},
 }
 ```
