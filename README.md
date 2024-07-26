@@ -27,6 +27,12 @@ Visit [VPE](https://huggingface.co/EPFL-VILAB/VPE-ViPer) and [Proxy](https://hug
 
 ## Usage
 
+### Required Libraries
+
+```
+pip install pillow peft transformers diffusers
+```
+
 ### ViPer Personalized Generation
 
 ![method figure](./assets/viper-method-nightmode.png#gh-dark-mode-only)
