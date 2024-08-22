@@ -16,30 +16,28 @@ from metric import (
 )
 
 negative_image_paths = [
-    "disliked/0.png",
-    "disliked/1.png",
-    "disliked/2.png",
-    "disliked/3.png",
-    "disliked/4.png",
-    "disliked/5.png",
-    "disliked/6.png",
-    "disliked/7.png",
-    "disliked/8.png",
+    "metric_examples/disliked/0.png",
+    "metric_examples/disliked/1.png",
+    "metric_examples/disliked/2.png",
+    "metric_examples/disliked/3.png",
+    "metric_examples/disliked/4.png",
+    "metric_examples/disliked/5.png",
+    "metric_examples/disliked/6.png",
+    "metric_examples/disliked/7.png",
 ]
 
 positive_image_paths = [
-    "liked/0.png",
-    "liked/1.png",
-    "liked/2.png",
-    "liked/3.png",
-    "liked/4.png",
-    "liked/5.png",
-    "liked/6.png",
-    "liked/7.png",
-    "liked/8.png",
+    "metric_examples/liked/0.png",
+    "metric_examples/liked/1.png",
+    "metric_examples/liked/2.png",
+    "metric_examples/liked/3.png",
+    "metric_examples/liked/4.png",
+    "metric_examples/liked/5.png",
+    "metric_examples/liked/6.png",
+    "metric_examples/liked/7.png",
 ]
 
-query_image = "query.png"
+query_image = "metric_examples/query3.png"
 
 device = set_device("cuda:0")
 context_images = load_context_images(negative_image_paths, positive_image_paths)
