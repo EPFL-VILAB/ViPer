@@ -3,7 +3,7 @@
 [Sogand Salehi](https://sogandstormesalehi.github.io/), [Mahdi Shafiei](), [Teresa Yeo](https://aserety.github.io/), [Roman Bachmann](https://roman-bachmann.github.io/), [Amir Zamir](https://vilab.epfl.ch/zamir/)
 
 
- [`Website`](https://viper.epfl.ch/) | [`arXiv`](https://arxiv.org/abs/2407.17365) | [`BibTeX`](#citation)
+ [`Website`](https://viper.epfl.ch/) | [`Paper`](https://huggingface.co/papers/2407.17365) | [`BibTeX`](#citation)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/EPFL-VILAB/ViPer)
 
